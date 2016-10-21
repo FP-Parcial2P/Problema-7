@@ -1,0 +1,4 @@
+run:
+Introduce los km/h que quieres convertir a m/s
+60
+El resultado es igual a:16.666666666666668m/s BUILD SUCCESSFUL (total time: 3 seconds)
